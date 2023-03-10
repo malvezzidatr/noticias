@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "567510193804",
+    "project_id": "appdenoticias-4fa00",
+    "storage_bucket": "appdenoticias-4fa00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567510193804:android:4c5e65db8aff4a0cfbcda9",
+        "android_client_info": {
+          "package_name": "com.noticias.appdenoticiasadm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567510193804-nca791huuts9to9aqpfihr6hbhrln01p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIijKhsoefQW4S7BusD89UJmyCVpavEi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567510193804-nca791huuts9to9aqpfihr6hbhrln01p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
